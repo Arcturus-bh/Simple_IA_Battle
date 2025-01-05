@@ -1,0 +1,7 @@
+WIDTH = 900
+HEIGHT = 800
+TITLE = "AI battle"
+FPS = 30
+
+WHITE = (255, 255, 255)
+GREEN = (0, 128, 0)
